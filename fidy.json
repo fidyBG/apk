@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "title": "fidy WEB v4.0",
+      "description": "Уеб базирано приложение, което дава възможност за бърз достъп до сайтове за торенти, онлайн филми, телевизии и др.",
+      "url": "https://dl.dropbox.com/s/aoa5lqiph4y1932/fidy_WEB_v4.0.apk",
+      "category": "Инструменти"
+    },
+    {
+      "title": "X-plore File Manager v4.30.18",
+      "description": "Един от най-добрите файлови мениджъри ,както за мобилни устройства, така и за Андроид ТВ.",
+      "url": "https://dl.dropbox.com/s/dhvqunt3a9ozfvh/X-plore_v4.30.18.apk",
+      "category": "Инструменти"
+    },
+    {
+      "title": "TiViMate Premium v2.15",
+      "description": "С TiViMate можете да гледате телевизионни канали на живо от вашия доставчик на IPTV на приемници с Android.",
+      "url": "https://dl.dropbox.com/s/y8ok0a11rbxs4fy/TiViMate_Premium_v2.1.5.apk",
+      "category": "IPTV Плеъри"
+    },
+    {
+      "title": "IPTV Pro v6.2.5",
+      "description": "Бърз и удобен плеър за гледане на телевизия и филми с плейлисти.",
+      "url": "https://dl.dropbox.com/s/fg4k6p4v436zyx4/IPTV_Pro_v6.2.5_ARM-v7a.apk",
+      "category": "IPTV Плеъри"
+    },
+    {
+      "title": "Replaio Radio Premium v3.1.1",
+      "description": "Безплатно приложение за слушане на радио.Над 50 000 станции от цял свят ви очакват в Replaio.",
+      "url": "https://dl.dropbox.com/s/lczxdoyolqiu67q/Replaio_Radio_Premium_v3.1.1.apk",
+      "category": "Радио"
+    },
+    {
+      "title": "TuneIn Radio Pro v31.0",
+      "description": "Слушайте всички новини на живо, спорт, музика, подкасти и радио, които обичате, от цял ​​свят.",
+      "url": "https://dl.dropbox.com/s/ra5rtp9vv3eyou2/TuneIn_Radio_Pro_v31.0.apk",
+      "category": "Радио"
+    }
+  ]
+}
